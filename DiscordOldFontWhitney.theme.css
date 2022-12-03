@@ -1,0 +1,16 @@
+/**
+ * @name DiscordOldFontWhitney
+ * @author EnhancedMind
+ * @description Changes the new gg sans font to the good old Whitney we all love
+ * @version 1.0.0
+ * @authorId 274283478885859329
+ * @authorLink https://github.com/EnhancedMind
+ * @website https://github.com/EnhancedMind
+ */
+
+
+:root {
+    --font-primary: "Whitney", "Noto Sans", "Helvetica Neue", "Helvetica", "Arial", "sans-serif";
+    --font-display: "Whitney", "Noto Sans", "Helvetica Neue", "Helvetica", "Arial", "sans-serif";
+    --font-headline: "ABC Ginto Nord", "Noto Sans", "Helvetica Neue", "Helvetica", "Arial", "sans-serif";
+}
